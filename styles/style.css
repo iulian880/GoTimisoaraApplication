@@ -1,0 +1,119 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: rgb(61, 61, 61);
+    background-image: url(../images/where-do-you-want-to-go.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.container {
+    width: 1750px;
+    margin: auto;
+    height: auto;
+    /* background-color: gray; */
+}
+
+header {
+    height: 25px;
+    margin: auto;
+    text-align: center;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.300);
+    height: 42px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+main {
+    height: 350px;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* .no-underline {
+    text-decoration: none;
+} */
+
+footer {
+    background-color: #0000007c;
+    color: white;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+footer p {
+
+    font-size: 18px;
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+h1 {
+    font-size: 84px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    /* text-align: center; */
+}
+
+section {
+    text-align: center;
+    max-width: 1720px;
+}
+
+.maps {
+    max-width: 1720px;
+    padding-bottom: 50px;
+}
+
+p {
+    font-size: 18px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif; 
+    text-decoration: none;
+}
+
+a {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.row
+{
+    display: table;
+    width: 100%; /*Optional*/
+     table-layout: fixed;
+    border-spacing: 0px; /*Optional*/
+    text-align: center;
+    color: white;
+    
+}
+.column
+{
+    display: table-cell;
+    background-color: rgba(0, 0, 0, 0.5); /*Optional*/
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+}
+
+h2 {
+    text-decoration: none;
+}

@@ -1,0 +1,52 @@
+body {
+    background-image: url(../images/where-do-you-want-to-go.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+    width: 1500px;
+    margin: auto;
+    height: 800px;
+    margin-top: 10px;
+}
+
+.images-box {
+  height: auto;
+  width: auto;
+  padding-top: 25px;
+}
+
+main {
+    text-align: center;
+    max-width: 1050px;
+    max-height: fit-content;
+    background-color: rgba(0, 0, 0, 0.514);
+    margin: auto;
+    height: fit-content;
+}
+
+footer {
+    background-color: #0000007c;
+    color: white;
+    margin-top: 50px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+footer p {
+
+    font-size: 18px;
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.maps {
+    width: 1050px;
+}
