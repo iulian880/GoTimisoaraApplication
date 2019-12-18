@@ -118,8 +118,9 @@ h2 {
     text-decoration: none;
 }
 
-
-
+.bootstrap-nav-padding {
+    padding-left: 200px;
+}
 
 
 
